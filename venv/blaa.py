@@ -12,7 +12,7 @@ def bignlogn(ar):
     # count+=2                    #first for loop comparison
     # count+=(6*len(ar))          #n times for loop
     ans.sort()
-    # count+=(len(ar)*math.log(len(ar), 10))  #sort method
+    # count+=(math.log(len(ar)**len(ar), 10))  #sort method
     print(ans)
     # return count
 bignlogn(ar)

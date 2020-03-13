@@ -2,7 +2,7 @@ import random
 import time
 
 start=time.time()
-n=10000000
+n=20000
 ar=[random.randint(-10, 10) for x in range(n)]
 ar.sort()
 def bign(ar):
