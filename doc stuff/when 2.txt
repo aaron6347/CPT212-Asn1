@@ -1,0 +1,10 @@
+0 compare
+1
+	1 compare
+		3
+			1
+	2
+	1
+swapping 6
+2
+1
